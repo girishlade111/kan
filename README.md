@@ -457,3 +457,9 @@ Kan is licensed under the [AGPLv3 license](LICENSE).
 ## Contact 📧
 
 For support or to get in touch, please email [henry@kan.bn](mailto:henry@kan.bn) or join the [Discord server](https://discord.gg/e6ejRb6CmT).
+
+---
+
+## About this fork
+
+Built by **Girish Lade** — [ladestack.in](https://ladestack.in)
